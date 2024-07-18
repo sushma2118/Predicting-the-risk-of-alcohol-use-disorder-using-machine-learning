@@ -1,0 +1,1001 @@
+age,gender,education_level,marital_status,employment_status,average_drinks_per_week,history_of_mental_health_issues,history_of_substance_abuse,alcohol_use_disorder,disease
+56,Male,High School,Widowed,Student,20,0,0,1,"Cardiovascular Disease, Gastrointestinal Problems"
+69,Male,Associates Degree,Single,Unemployed,20,0,0,1,"Cardiovascular Disease, Gastrointestinal Problems"
+46,Male,Doctorate,Widowed,Retired,7,1,0,1,Mental Health Disorders
+32,Female,Doctorate,Married,Unemployed,15,1,1,0,No Disease
+60,Male,Bachelors Degree,Divorced,Retired,30,1,0,0,No Disease
+25,Male,Associates Degree,Widowed,Employed,9,0,1,0,No Disease
+38,Male,Bachelors Degree,Widowed,Employed,31,1,0,0,No Disease
+56,Female,Associates Degree,Widowed,Employed,33,0,0,0,No Disease
+36,Female,Bachelors Degree,Married,Employed,8,1,0,0,No Disease
+40,Male,Doctorate,Widowed,Student,16,0,1,1,"Cardiovascular Disease, Gastrointestinal Problems"
+28,Male,Doctorate,Married,Student,10,1,1,0,No Disease
+28,Male,High School,Married,Unemployed,31,0,1,0,No Disease
+41,Male,Bachelors Degree,Married,Retired,9,1,0,1,Mental Health Disorders
+53,Female,Masters Degree,Divorced,Employed,21,0,1,0,No Disease
+57,Female,High School,Divorced,Employed,16,1,1,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+41,Female,Bachelors Degree,Widowed,Retired,3,1,0,0,No Disease
+20,Female,Bachelors Degree,Widowed,Retired,24,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+39,Male,High School,Divorced,Unemployed,20,1,1,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+19,Male,Doctorate,Single,Retired,36,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+41,Male,Bachelors Degree,Divorced,Employed,37,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+61,Female,Doctorate,Married,Employed,0,1,1,1,Mental Health Disorders
+47,Male,High School,Divorced,Employed,24,0,0,0,No Disease
+55,Female,Doctorate,Married,Employed,35,1,0,0,No Disease
+19,Female,Associates Degree,Widowed,Employed,16,1,0,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+38,Male,Masters Degree,Single,Unemployed,23,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+50,Male,Bachelors Degree,Widowed,Employed,1,1,1,1,Mental Health Disorders
+29,Male,Masters Degree,Married,Unemployed,39,0,0,0,No Disease
+39,Female,Doctorate,Married,Employed,14,0,0,1,Gastrointestinal Problems
+61,Male,Bachelors Degree,Married,Student,31,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+42,Female,Doctorate,Single,Student,38,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+66,Male,Associates Degree,Divorced,Student,5,0,0,1,Neurological Issues
+44,Female,High School,Widowed,Student,0,0,0,0,No Disease
+59,Female,Bachelors Degree,Widowed,Unemployed,22,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+45,Male,Associates Degree,Divorced,Unemployed,38,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+33,Female,Associates Degree,Widowed,Retired,16,1,1,0,No Disease
+32,Female,Bachelors Degree,Single,Employed,33,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+64,Male,Doctorate,Widowed,Student,28,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+68,Female,Associates Degree,Married,Unemployed,8,1,1,0,No Disease
+61,Male,Masters Degree,Divorced,Employed,12,0,1,0,No Disease
+69,Female,Associates Degree,Single,Employed,5,0,0,0,No Disease
+20,Male,Doctorate,Divorced,Unemployed,5,1,0,1,Mental Health Disorders
+54,Male,Doctorate,Single,Student,19,0,1,1,"Cardiovascular Disease, Gastrointestinal Problems"
+68,Female,Masters Degree,Married,Retired,2,1,0,0,No Disease
+24,Female,Associates Degree,Divorced,Employed,16,0,1,0,No Disease
+38,Female,Doctorate,Widowed,Retired,11,1,0,0,No Disease
+26,Female,Bachelors Degree,Single,Student,0,0,1,1,Neurological Issues
+56,Female,High School,Divorced,Student,16,0,0,1,"Cardiovascular Disease, Gastrointestinal Problems"
+35,Male,High School,Widowed,Retired,2,1,0,0,No Disease
+21,Female,High School,Divorced,Student,25,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+42,Male,Associates Degree,Divorced,Employed,14,0,1,0,No Disease
+31,Male,Masters Degree,Divorced,Retired,35,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+67,Female,Doctorate,Single,Student,31,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+26,Male,Bachelors Degree,Widowed,Retired,31,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+43,Male,Bachelors Degree,Married,Employed,3,1,0,1,Mental Health Disorders
+19,Male,Associates Degree,Single,Student,17,0,1,0,No Disease
+37,Male,High School,Single,Employed,18,1,1,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+45,Female,Associates Degree,Single,Student,34,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+64,Male,Masters Degree,Married,Unemployed,39,1,1,0,No Disease
+24,Female,Masters Degree,Widowed,Student,13,1,0,1,"Mental Health Disorders, Gastrointestinal Problems"
+61,Female,Doctorate,Widowed,Retired,32,0,0,0,No Disease
+25,Male,Doctorate,Widowed,Student,13,1,1,0,No Disease
+64,Female,Masters Degree,Divorced,Employed,33,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+52,Female,Masters Degree,Divorced,Employed,3,1,1,1,Mental Health Disorders
+31,Female,Masters Degree,Divorced,Student,23,1,1,0,No Disease
+34,Male,Associates Degree,Married,Retired,28,1,1,0,No Disease
+53,Female,Masters Degree,Divorced,Unemployed,18,0,0,0,No Disease
+67,Female,Bachelors Degree,Married,Retired,5,1,1,1,Mental Health Disorders
+57,Female,High School,Widowed,Unemployed,32,0,0,0,No Disease
+21,Male,Masters Degree,Divorced,Employed,39,1,1,0,No Disease
+19,Female,High School,Divorced,Retired,18,0,1,0,No Disease
+23,Male,Associates Degree,Single,Unemployed,0,0,1,1,Neurological Issues
+59,Male,High School,Married,Student,4,0,0,0,No Disease
+21,Male,Associates Degree,Widowed,Employed,26,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+46,Male,Bachelors Degree,Single,Student,15,0,1,1,Gastrointestinal Problems
+35,Male,Associates Degree,Single,Employed,5,1,1,0,No Disease
+43,Male,Associates Degree,Widowed,Retired,39,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+61,Female,Doctorate,Single,Retired,12,0,0,0,No Disease
+51,Male,Masters Degree,Married,Employed,34,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+27,Female,Masters Degree,Married,Employed,18,0,1,1,"Cardiovascular Disease, Gastrointestinal Problems"
+53,Female,Bachelors Degree,Divorced,Employed,11,1,0,0,No Disease
+31,Male,Bachelors Degree,Single,Retired,15,0,1,0,No Disease
+48,Female,Masters Degree,Divorced,Unemployed,9,0,0,0,No Disease
+65,Female,Doctorate,Single,Student,24,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+32,Female,Masters Degree,Married,Student,19,0,1,1,"Cardiovascular Disease, Gastrointestinal Problems"
+25,Female,Doctorate,Married,Retired,30,0,1,0,No Disease
+31,Male,Bachelors Degree,Married,Student,3,0,0,0,No Disease
+40,Female,High School,Single,Employed,22,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+57,Male,Bachelors Degree,Married,Unemployed,1,1,0,1,Mental Health Disorders
+38,Female,Bachelors Degree,Single,Student,21,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+33,Female,Associates Degree,Divorced,Unemployed,36,0,1,0,No Disease
+62,Male,Associates Degree,Single,Employed,7,1,0,1,Mental Health Disorders
+35,Female,Associates Degree,Divorced,Student,6,1,1,0,No Disease
+64,Female,Associates Degree,Single,Retired,13,0,1,1,Gastrointestinal Problems
+41,Female,Doctorate,Divorced,Unemployed,2,1,1,1,Mental Health Disorders
+43,Male,Masters Degree,Married,Employed,15,0,0,0,No Disease
+42,Female,High School,Divorced,Unemployed,18,1,1,0,No Disease
+62,Male,Bachelors Degree,Married,Student,17,1,0,0,No Disease
+58,Female,Doctorate,Married,Student,15,1,0,1,"Mental Health Disorders, Gastrointestinal Problems"
+46,Male,High School,Divorced,Retired,7,0,0,1,Neurological Issues
+32,Male,Doctorate,Single,Employed,32,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+62,Female,Doctorate,Single,Employed,11,0,0,0,No Disease
+18,Female,Bachelors Degree,Widowed,Retired,10,0,1,1,Neurological Issues
+42,Male,Masters Degree,Single,Retired,4,1,0,0,No Disease
+24,Male,Associates Degree,Widowed,Employed,26,0,0,0,No Disease
+26,Female,Masters Degree,Single,Unemployed,11,1,0,0,No Disease
+41,Male,Bachelors Degree,Single,Unemployed,16,0,1,1,"Cardiovascular Disease, Gastrointestinal Problems"
+18,Female,Bachelors Degree,Married,Retired,5,0,1,1,Neurological Issues
+61,Female,Bachelors Degree,Widowed,Unemployed,32,1,1,0,No Disease
+25,Female,High School,Single,Employed,4,1,1,1,Mental Health Disorders
+41,Female,Masters Degree,Widowed,Student,27,1,0,0,No Disease
+28,Male,Masters Degree,Married,Student,13,1,0,0,No Disease
+68,Female,Doctorate,Married,Unemployed,4,0,1,1,Neurological Issues
+34,Male,Doctorate,Widowed,Retired,32,0,1,0,No Disease
+25,Female,Doctorate,Married,Retired,18,0,1,0,No Disease
+52,Male,Bachelors Degree,Divorced,Retired,21,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+52,Female,Masters Degree,Divorced,Retired,4,0,0,0,No Disease
+50,Male,Bachelors Degree,Married,Retired,1,1,1,0,No Disease
+22,Male,High School,Divorced,Unemployed,29,0,1,0,No Disease
+59,Female,Doctorate,Single,Student,38,1,1,0,No Disease
+56,Female,Bachelors Degree,Widowed,Student,3,0,1,0,No Disease
+58,Female,Bachelors Degree,Single,Unemployed,32,0,1,0,No Disease
+45,Female,High School,Widowed,Retired,12,1,1,0,No Disease
+24,Male,Associates Degree,Married,Unemployed,19,0,1,1,"Cardiovascular Disease, Gastrointestinal Problems"
+26,Female,Masters Degree,Single,Student,6,1,0,1,Mental Health Disorders
+25,Male,Associates Degree,Married,Employed,14,0,0,0,No Disease
+29,Male,Doctorate,Married,Unemployed,22,0,0,0,No Disease
+51,Female,Bachelors Degree,Widowed,Retired,13,1,0,1,"Mental Health Disorders, Gastrointestinal Problems"
+50,Male,High School,Widowed,Student,22,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+65,Male,High School,Widowed,Student,18,0,0,1,"Cardiovascular Disease, Gastrointestinal Problems"
+40,Male,Masters Degree,Single,Student,28,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+41,Male,Associates Degree,Divorced,Student,19,0,1,1,"Cardiovascular Disease, Gastrointestinal Problems"
+54,Female,Masters Degree,Widowed,Retired,28,0,0,0,No Disease
+52,Female,Bachelors Degree,Widowed,Employed,23,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+61,Female,Masters Degree,Single,Student,17,0,0,1,"Cardiovascular Disease, Gastrointestinal Problems"
+57,Female,High School,Widowed,Unemployed,9,1,1,1,Mental Health Disorders
+39,Male,High School,Single,Employed,7,1,1,0,No Disease
+44,Male,Doctorate,Married,Student,25,1,1,0,No Disease
+52,Female,Doctorate,Widowed,Employed,28,0,1,0,No Disease
+18,Female,Bachelors Degree,Widowed,Unemployed,9,0,1,0,No Disease
+52,Female,Associates Degree,Married,Student,16,0,1,0,No Disease
+54,Male,Masters Degree,Married,Unemployed,1,1,0,0,No Disease
+64,Female,Bachelors Degree,Married,Retired,5,1,0,1,Mental Health Disorders
+31,Female,Doctorate,Widowed,Student,4,0,1,0,No Disease
+20,Female,Masters Degree,Divorced,Student,27,0,0,0,No Disease
+18,Male,Doctorate,Divorced,Student,4,1,1,1,Mental Health Disorders
+22,Male,Masters Degree,Divorced,Student,17,1,0,0,No Disease
+43,Male,Associates Degree,Widowed,Retired,25,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+31,Male,Bachelors Degree,Married,Student,19,0,0,1,"Cardiovascular Disease, Gastrointestinal Problems"
+56,Male,Masters Degree,Widowed,Employed,26,0,1,0,No Disease
+44,Male,High School,Married,Student,11,0,0,1,Gastrointestinal Problems
+26,Male,High School,Widowed,Retired,6,1,1,1,Mental Health Disorders
+32,Male,Masters Degree,Widowed,Student,2,1,0,1,Mental Health Disorders
+32,Female,Masters Degree,Married,Employed,9,0,1,1,Neurological Issues
+43,Female,Masters Degree,Divorced,Retired,33,0,1,0,No Disease
+59,Male,High School,Married,Retired,24,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+30,Male,High School,Single,Employed,34,0,0,0,No Disease
+68,Female,Masters Degree,Single,Employed,15,1,0,1,"Mental Health Disorders, Gastrointestinal Problems"
+49,Male,Doctorate,Married,Employed,1,1,0,1,Mental Health Disorders
+56,Male,Doctorate,Widowed,Employed,23,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+66,Male,Associates Degree,Single,Employed,9,1,0,0,No Disease
+69,Female,Bachelors Degree,Single,Retired,37,0,1,0,No Disease
+49,Female,Doctorate,Widowed,Retired,21,1,0,0,No Disease
+21,Female,High School,Widowed,Student,25,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+47,Female,Doctorate,Divorced,Student,38,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+54,Female,Associates Degree,Widowed,Unemployed,26,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+40,Male,Associates Degree,Married,Student,28,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+56,Female,Bachelors Degree,Married,Student,37,0,0,0,No Disease
+62,Male,Doctorate,Divorced,Employed,19,1,0,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+32,Male,High School,Single,Employed,26,0,1,0,No Disease
+60,Female,High School,Single,Student,19,0,1,1,"Cardiovascular Disease, Gastrointestinal Problems"
+46,Female,Masters Degree,Widowed,Unemployed,18,0,0,0,No Disease
+53,Male,High School,Married,Employed,19,0,0,0,No Disease
+30,Male,Bachelors Degree,Single,Student,34,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+49,Male,Bachelors Degree,Divorced,Student,1,0,1,1,Neurological Issues
+24,Female,High School,Divorced,Retired,29,1,1,0,No Disease
+68,Female,High School,Married,Unemployed,33,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+39,Female,Masters Degree,Divorced,Retired,21,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+45,Female,High School,Divorced,Unemployed,2,1,0,0,No Disease
+19,Female,Masters Degree,Married,Employed,5,0,1,0,No Disease
+59,Male,Masters Degree,Widowed,Unemployed,14,1,1,0,No Disease
+62,Female,High School,Widowed,Student,26,1,1,0,No Disease
+23,Male,Associates Degree,Divorced,Student,9,0,0,1,Neurological Issues
+45,Male,Associates Degree,Widowed,Unemployed,8,0,1,0,No Disease
+45,Male,Masters Degree,Widowed,Unemployed,32,0,0,0,No Disease
+61,Female,High School,Divorced,Unemployed,31,1,1,0,No Disease
+61,Female,Associates Degree,Widowed,Retired,5,1,0,1,Mental Health Disorders
+37,Female,High School,Divorced,Unemployed,35,0,0,0,No Disease
+47,Male,High School,Single,Employed,1,0,1,1,Neurological Issues
+28,Male,High School,Married,Retired,28,1,0,0,No Disease
+45,Male,Doctorate,Married,Retired,3,1,1,0,No Disease
+42,Male,High School,Widowed,Unemployed,0,1,0,1,Mental Health Disorders
+56,Male,Doctorate,Widowed,Employed,18,1,1,0,No Disease
+50,Male,Masters Degree,Widowed,Retired,25,0,1,0,No Disease
+18,Female,Associates Degree,Married,Student,24,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+44,Female,Associates Degree,Single,Retired,9,1,1,0,No Disease
+69,Female,Associates Degree,Single,Unemployed,14,1,0,0,No Disease
+30,Female,Associates Degree,Married,Employed,21,1,1,0,No Disease
+58,Male,Associates Degree,Single,Unemployed,20,0,1,0,No Disease
+20,Male,Associates Degree,Married,Student,21,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+56,Female,Associates Degree,Single,Student,35,1,1,0,No Disease
+23,Male,Masters Degree,Divorced,Student,33,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+25,Female,High School,Divorced,Unemployed,29,0,1,0,No Disease
+44,Female,Bachelors Degree,Married,Retired,24,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+26,Female,Doctorate,Single,Unemployed,27,1,0,0,No Disease
+54,Male,Bachelors Degree,Widowed,Employed,0,1,0,1,Mental Health Disorders
+50,Female,Bachelors Degree,Single,Retired,3,0,0,0,No Disease
+68,Female,High School,Divorced,Student,6,0,0,1,Neurological Issues
+59,Female,High School,Divorced,Unemployed,8,0,0,1,Neurological Issues
+61,Male,High School,Single,Student,35,0,0,0,No Disease
+41,Male,Associates Degree,Single,Student,18,0,1,1,"Cardiovascular Disease, Gastrointestinal Problems"
+32,Female,Masters Degree,Widowed,Employed,0,0,0,0,No Disease
+49,Male,Associates Degree,Widowed,Retired,9,1,1,0,No Disease
+49,Male,Masters Degree,Single,Employed,35,0,0,0,No Disease
+41,Male,Masters Degree,Single,Employed,8,0,1,0,No Disease
+58,Male,Bachelors Degree,Single,Employed,31,0,1,0,No Disease
+69,Male,Bachelors Degree,Single,Student,31,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+66,Male,Masters Degree,Married,Employed,5,1,0,0,No Disease
+66,Male,Masters Degree,Single,Employed,37,1,0,0,No Disease
+69,Male,Associates Degree,Widowed,Retired,16,0,0,0,No Disease
+29,Male,Associates Degree,Divorced,Retired,9,1,0,0,No Disease
+56,Male,Bachelors Degree,Married,Employed,26,1,1,0,No Disease
+19,Female,High School,Single,Retired,34,1,0,0,No Disease
+20,Female,Masters Degree,Divorced,Retired,20,1,1,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+66,Male,Associates Degree,Married,Employed,24,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+54,Female,Bachelors Degree,Divorced,Student,27,1,0,0,No Disease
+66,Female,Associates Degree,Single,Employed,14,0,0,1,Gastrointestinal Problems
+34,Male,Masters Degree,Single,Retired,3,0,0,0,No Disease
+66,Male,Masters Degree,Widowed,Student,28,0,1,0,No Disease
+19,Male,Doctorate,Single,Unemployed,8,0,0,0,No Disease
+19,Female,High School,Single,Student,26,0,1,0,No Disease
+45,Female,Doctorate,Married,Retired,25,1,0,0,No Disease
+40,Male,Bachelors Degree,Widowed,Student,18,0,1,1,"Cardiovascular Disease, Gastrointestinal Problems"
+54,Male,Associates Degree,Married,Employed,27,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+49,Male,Bachelors Degree,Divorced,Unemployed,16,1,0,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+50,Female,Masters Degree,Single,Unemployed,19,1,1,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+18,Female,Doctorate,Divorced,Unemployed,39,0,0,0,No Disease
+36,Female,Doctorate,Married,Retired,38,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+19,Female,Doctorate,Single,Retired,22,1,0,0,No Disease
+61,Male,Bachelors Degree,Single,Unemployed,31,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+43,Male,Masters Degree,Married,Student,32,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+49,Male,Associates Degree,Married,Unemployed,4,0,0,1,Neurological Issues
+23,Male,Associates Degree,Married,Student,33,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+49,Female,Bachelors Degree,Married,Student,39,0,1,0,No Disease
+21,Female,Doctorate,Married,Retired,10,0,1,1,Neurological Issues
+28,Male,High School,Single,Student,2,1,0,1,Mental Health Disorders
+34,Male,Bachelors Degree,Married,Unemployed,32,1,0,0,No Disease
+55,Female,Bachelors Degree,Single,Retired,10,1,0,0,No Disease
+41,Male,Masters Degree,Single,Employed,15,0,1,1,Gastrointestinal Problems
+22,Female,Associates Degree,Married,Employed,17,1,1,0,No Disease
+69,Male,Bachelors Degree,Married,Retired,29,1,0,0,No Disease
+51,Male,Bachelors Degree,Widowed,Unemployed,9,1,1,0,No Disease
+23,Male,Doctorate,Single,Employed,17,1,0,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+39,Male,Doctorate,Married,Employed,37,1,0,0,No Disease
+28,Male,High School,Married,Student,18,0,0,1,"Cardiovascular Disease, Gastrointestinal Problems"
+65,Male,Masters Degree,Married,Student,35,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+33,Male,High School,Widowed,Unemployed,12,1,1,1,"Mental Health Disorders, Gastrointestinal Problems"
+50,Female,Doctorate,Widowed,Retired,2,1,1,1,Mental Health Disorders
+26,Female,Associates Degree,Divorced,Unemployed,9,0,0,0,No Disease
+23,Female,Doctorate,Single,Retired,37,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+33,Female,Masters Degree,Divorced,Employed,0,0,1,0,No Disease
+46,Female,Doctorate,Married,Student,26,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+20,Male,Masters Degree,Widowed,Unemployed,7,1,1,0,No Disease
+37,Male,Masters Degree,Widowed,Unemployed,16,1,0,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+53,Female,Masters Degree,Divorced,Retired,8,1,0,0,No Disease
+36,Male,Masters Degree,Widowed,Retired,5,0,0,1,Neurological Issues
+43,Female,Masters Degree,Married,Unemployed,24,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+20,Female,Associates Degree,Widowed,Retired,38,0,1,0,No Disease
+36,Male,High School,Divorced,Unemployed,27,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+37,Male,Bachelors Degree,Married,Unemployed,32,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+49,Male,High School,Divorced,Unemployed,36,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+24,Female,Masters Degree,Widowed,Employed,8,1,0,0,No Disease
+69,Male,Associates Degree,Divorced,Retired,17,1,1,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+58,Female,Doctorate,Divorced,Student,20,0,0,1,"Cardiovascular Disease, Gastrointestinal Problems"
+50,Female,Associates Degree,Single,Student,1,1,1,0,No Disease
+57,Female,Masters Degree,Widowed,Retired,37,1,1,0,No Disease
+56,Male,Associates Degree,Widowed,Unemployed,39,0,0,0,No Disease
+35,Male,Associates Degree,Divorced,Student,35,0,0,0,No Disease
+57,Female,Masters Degree,Single,Student,36,1,0,0,No Disease
+18,Male,Associates Degree,Widowed,Retired,14,0,0,1,Gastrointestinal Problems
+28,Male,Bachelors Degree,Married,Student,27,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+45,Male,Bachelors Degree,Divorced,Unemployed,17,1,0,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+42,Female,Associates Degree,Widowed,Retired,33,0,1,0,No Disease
+67,Female,Doctorate,Married,Unemployed,21,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+40,Male,Masters Degree,Widowed,Student,10,1,0,0,No Disease
+48,Female,Bachelors Degree,Married,Student,12,1,1,0,No Disease
+47,Male,Doctorate,Divorced,Unemployed,3,1,1,1,Mental Health Disorders
+59,Male,Associates Degree,Widowed,Employed,21,1,0,0,No Disease
+52,Male,Doctorate,Widowed,Student,6,0,0,0,No Disease
+24,Male,High School,Single,Employed,23,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+33,Female,Bachelors Degree,Divorced,Student,3,0,0,0,No Disease
+43,Female,Associates Degree,Married,Employed,27,0,1,0,No Disease
+65,Female,Masters Degree,Widowed,Employed,14,1,0,1,"Mental Health Disorders, Gastrointestinal Problems"
+69,Male,Associates Degree,Widowed,Employed,0,1,1,0,No Disease
+66,Male,Masters Degree,Married,Unemployed,2,0,1,0,No Disease
+19,Male,Associates Degree,Divorced,Employed,13,1,1,1,"Mental Health Disorders, Gastrointestinal Problems"
+18,Female,Doctorate,Single,Employed,37,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+65,Male,Doctorate,Single,Employed,0,0,0,1,Neurological Issues
+29,Female,Doctorate,Widowed,Student,37,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+22,Female,High School,Married,Employed,37,1,1,0,No Disease
+54,Female,Masters Degree,Widowed,Student,20,1,1,0,No Disease
+49,Female,Doctorate,Married,Employed,28,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+26,Female,High School,Single,Employed,4,1,0,0,No Disease
+58,Female,Masters Degree,Divorced,Unemployed,9,0,1,0,No Disease
+52,Male,Associates Degree,Married,Student,27,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+36,Male,High School,Single,Employed,20,1,1,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+65,Female,Bachelors Degree,Widowed,Student,6,1,1,0,No Disease
+33,Female,High School,Married,Student,2,0,1,1,Neurological Issues
+20,Male,High School,Divorced,Retired,19,0,0,1,"Cardiovascular Disease, Gastrointestinal Problems"
+37,Female,Masters Degree,Widowed,Unemployed,18,1,1,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+41,Female,Associates Degree,Widowed,Unemployed,34,1,0,0,No Disease
+50,Male,Bachelors Degree,Single,Unemployed,3,1,0,1,Mental Health Disorders
+41,Female,Doctorate,Married,Retired,4,1,0,0,No Disease
+69,Female,Doctorate,Widowed,Retired,0,0,1,0,No Disease
+28,Female,High School,Divorced,Unemployed,3,1,0,0,No Disease
+66,Male,Masters Degree,Married,Retired,11,1,0,1,"Mental Health Disorders, Gastrointestinal Problems"
+25,Male,Masters Degree,Divorced,Retired,26,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+53,Male,Doctorate,Widowed,Retired,22,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+55,Female,Bachelors Degree,Divorced,Unemployed,24,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+57,Female,Associates Degree,Single,Unemployed,20,1,1,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+37,Male,Bachelors Degree,Divorced,Unemployed,23,1,0,0,No Disease
+52,Female,Associates Degree,Married,Retired,24,1,0,0,No Disease
+65,Female,Doctorate,Divorced,Unemployed,31,1,1,0,No Disease
+42,Female,Associates Degree,Divorced,Retired,31,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+52,Female,Masters Degree,Single,Employed,4,0,1,0,No Disease
+42,Female,High School,Divorced,Retired,35,0,0,0,No Disease
+46,Male,High School,Divorced,Student,38,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+35,Female,Doctorate,Widowed,Unemployed,15,1,0,1,"Mental Health Disorders, Gastrointestinal Problems"
+63,Male,Masters Degree,Widowed,Unemployed,32,0,0,0,No Disease
+35,Female,Bachelors Degree,Married,Student,20,0,1,0,No Disease
+19,Male,Masters Degree,Widowed,Retired,8,0,0,1,Neurological Issues
+52,Female,High School,Widowed,Employed,5,1,1,1,Mental Health Disorders
+33,Male,High School,Widowed,Student,34,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+58,Female,Masters Degree,Widowed,Student,38,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+53,Male,Masters Degree,Single,Retired,21,1,0,0,No Disease
+50,Female,High School,Widowed,Unemployed,4,0,0,0,No Disease
+21,Male,Bachelors Degree,Single,Retired,22,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+50,Female,Doctorate,Single,Student,16,0,1,0,No Disease
+31,Male,Doctorate,Widowed,Student,11,0,1,0,No Disease
+38,Male,Masters Degree,Divorced,Unemployed,22,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+65,Female,Doctorate,Single,Unemployed,15,1,0,0,No Disease
+37,Female,High School,Divorced,Unemployed,2,1,1,0,No Disease
+25,Male,High School,Divorced,Retired,29,1,1,0,No Disease
+24,Female,Masters Degree,Widowed,Unemployed,21,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+20,Male,Masters Degree,Married,Student,8,1,1,1,Mental Health Disorders
+34,Male,Masters Degree,Widowed,Student,28,0,1,0,No Disease
+50,Male,Bachelors Degree,Married,Employed,36,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+65,Female,Doctorate,Married,Retired,22,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+29,Male,Masters Degree,Widowed,Employed,12,1,1,1,"Mental Health Disorders, Gastrointestinal Problems"
+68,Male,Associates Degree,Widowed,Student,31,0,1,0,No Disease
+39,Female,Associates Degree,Married,Employed,22,0,1,0,No Disease
+39,Female,High School,Widowed,Student,16,0,1,1,"Cardiovascular Disease, Gastrointestinal Problems"
+63,Female,Doctorate,Married,Employed,39,0,1,0,No Disease
+47,Female,Masters Degree,Divorced,Unemployed,20,1,0,0,No Disease
+55,Male,Associates Degree,Widowed,Employed,1,0,1,0,No Disease
+55,Male,Doctorate,Divorced,Unemployed,36,0,0,0,No Disease
+62,Male,High School,Single,Unemployed,5,1,0,0,No Disease
+68,Male,Bachelors Degree,Divorced,Retired,17,1,0,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+25,Female,Doctorate,Divorced,Unemployed,29,0,0,0,No Disease
+44,Male,Doctorate,Married,Unemployed,21,1,1,0,No Disease
+44,Male,Bachelors Degree,Divorced,Employed,32,0,1,0,No Disease
+51,Female,Doctorate,Widowed,Student,29,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+38,Male,High School,Married,Retired,16,0,0,1,"Cardiovascular Disease, Gastrointestinal Problems"
+47,Male,High School,Single,Unemployed,31,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+50,Male,Bachelors Degree,Widowed,Retired,13,0,1,0,No Disease
+45,Male,Masters Degree,Single,Employed,9,0,1,1,Neurological Issues
+64,Male,Associates Degree,Divorced,Unemployed,35,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+50,Male,Masters Degree,Widowed,Employed,33,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+22,Female,Doctorate,Widowed,Retired,8,0,1,1,Neurological Issues
+65,Female,Associates Degree,Single,Employed,27,0,0,0,No Disease
+36,Male,Bachelors Degree,Widowed,Retired,10,0,0,1,Neurological Issues
+21,Male,Bachelors Degree,Widowed,Employed,13,0,1,1,Gastrointestinal Problems
+52,Female,Associates Degree,Widowed,Retired,38,0,0,0,No Disease
+66,Male,High School,Divorced,Student,18,1,0,0,No Disease
+34,Male,Associates Degree,Single,Employed,14,1,1,1,"Mental Health Disorders, Gastrointestinal Problems"
+61,Male,Doctorate,Widowed,Employed,27,0,0,0,No Disease
+45,Female,High School,Married,Student,23,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+47,Male,Bachelors Degree,Married,Student,7,0,0,0,No Disease
+46,Female,Associates Degree,Married,Employed,8,1,0,0,No Disease
+63,Male,Masters Degree,Married,Student,32,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+23,Female,Masters Degree,Divorced,Unemployed,32,0,0,0,No Disease
+52,Female,Doctorate,Widowed,Retired,18,1,0,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+58,Male,Masters Degree,Single,Retired,2,1,0,0,No Disease
+54,Female,Associates Degree,Widowed,Retired,9,0,1,1,Neurological Issues
+41,Male,Associates Degree,Divorced,Unemployed,39,0,1,0,No Disease
+46,Female,Masters Degree,Married,Student,0,1,1,0,No Disease
+66,Male,Associates Degree,Divorced,Student,28,1,1,0,No Disease
+63,Male,Doctorate,Widowed,Employed,33,1,0,0,No Disease
+48,Female,High School,Single,Student,12,0,1,0,No Disease
+52,Male,Doctorate,Divorced,Employed,0,1,1,1,Mental Health Disorders
+50,Male,Doctorate,Single,Unemployed,33,1,0,0,No Disease
+69,Female,Associates Degree,Divorced,Retired,28,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+38,Male,High School,Single,Retired,12,0,0,1,Gastrointestinal Problems
+49,Male,Associates Degree,Single,Retired,28,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+40,Female,Bachelors Degree,Married,Student,38,0,0,0,No Disease
+50,Female,Associates Degree,Single,Employed,23,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+20,Male,Associates Degree,Married,Employed,25,1,0,0,No Disease
+35,Male,Associates Degree,Widowed,Unemployed,16,0,1,1,"Cardiovascular Disease, Gastrointestinal Problems"
+42,Female,High School,Widowed,Student,6,1,1,1,Mental Health Disorders
+59,Female,Associates Degree,Married,Unemployed,12,1,0,1,"Mental Health Disorders, Gastrointestinal Problems"
+48,Male,High School,Married,Employed,4,1,1,1,Mental Health Disorders
+20,Female,Masters Degree,Divorced,Employed,25,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+57,Male,Bachelors Degree,Divorced,Retired,2,0,0,0,No Disease
+63,Male,High School,Divorced,Student,6,0,1,1,Neurological Issues
+41,Male,Masters Degree,Widowed,Employed,38,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+67,Male,High School,Divorced,Retired,0,0,1,0,No Disease
+49,Male,High School,Single,Student,16,0,0,0,No Disease
+64,Female,Bachelors Degree,Single,Unemployed,24,1,0,0,No Disease
+39,Female,Doctorate,Divorced,Student,2,0,0,1,Neurological Issues
+40,Female,Doctorate,Single,Student,14,0,1,1,Gastrointestinal Problems
+19,Female,High School,Widowed,Employed,28,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+44,Male,Associates Degree,Single,Employed,31,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+59,Male,Masters Degree,Widowed,Student,25,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+19,Male,Associates Degree,Married,Employed,15,1,1,1,"Mental Health Disorders, Gastrointestinal Problems"
+43,Male,Associates Degree,Married,Employed,24,1,0,0,No Disease
+34,Female,High School,Married,Employed,27,1,0,0,No Disease
+57,Male,High School,Married,Retired,8,1,1,1,Mental Health Disorders
+50,Male,High School,Single,Retired,0,0,0,1,Neurological Issues
+26,Female,High School,Divorced,Student,28,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+60,Female,Doctorate,Single,Employed,21,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+65,Female,High School,Widowed,Retired,15,1,0,1,"Mental Health Disorders, Gastrointestinal Problems"
+56,Female,Doctorate,Single,Student,6,0,1,0,No Disease
+46,Male,Doctorate,Single,Employed,13,0,1,0,No Disease
+59,Male,High School,Widowed,Unemployed,28,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+43,Female,Bachelors Degree,Married,Employed,18,0,0,0,No Disease
+52,Male,Masters Degree,Married,Employed,18,0,1,1,"Cardiovascular Disease, Gastrointestinal Problems"
+67,Male,Associates Degree,Married,Retired,1,1,0,1,Mental Health Disorders
+42,Male,Doctorate,Divorced,Student,14,0,1,1,Gastrointestinal Problems
+41,Female,Masters Degree,Widowed,Student,2,0,1,0,No Disease
+30,Male,Bachelors Degree,Widowed,Retired,10,0,1,0,No Disease
+24,Female,Associates Degree,Single,Employed,29,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+53,Male,Associates Degree,Divorced,Unemployed,39,1,1,0,No Disease
+62,Male,Doctorate,Married,Employed,17,1,1,0,No Disease
+37,Male,High School,Divorced,Employed,1,0,0,1,Neurological Issues
+18,Female,Bachelors Degree,Widowed,Unemployed,31,1,1,0,No Disease
+25,Male,Doctorate,Widowed,Retired,7,0,0,0,No Disease
+63,Female,Bachelors Degree,Single,Student,21,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+33,Female,High School,Single,Retired,5,0,1,1,Neurological Issues
+31,Female,High School,Widowed,Retired,11,1,1,0,No Disease
+29,Male,Doctorate,Married,Employed,39,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+68,Male,High School,Married,Student,35,1,0,0,No Disease
+40,Male,Masters Degree,Divorced,Student,14,1,1,1,"Mental Health Disorders, Gastrointestinal Problems"
+32,Male,Associates Degree,Widowed,Retired,27,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+45,Female,Doctorate,Widowed,Unemployed,17,1,1,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+51,Female,Bachelors Degree,Married,Retired,1,0,1,1,Neurological Issues
+19,Female,Masters Degree,Married,Unemployed,12,1,0,0,No Disease
+49,Male,Doctorate,Widowed,Student,14,1,0,1,"Mental Health Disorders, Gastrointestinal Problems"
+40,Female,High School,Single,Retired,19,1,0,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+39,Male,High School,Widowed,Employed,28,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+68,Female,High School,Widowed,Retired,28,0,1,0,No Disease
+42,Male,High School,Married,Student,2,0,0,0,No Disease
+39,Male,Bachelors Degree,Married,Employed,18,0,0,1,"Cardiovascular Disease, Gastrointestinal Problems"
+39,Female,Masters Degree,Single,Employed,2,0,1,1,Neurological Issues
+66,Female,Associates Degree,Single,Unemployed,13,1,0,1,"Mental Health Disorders, Gastrointestinal Problems"
+69,Female,Bachelors Degree,Divorced,Employed,39,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+59,Female,Bachelors Degree,Widowed,Employed,3,0,0,1,Neurological Issues
+23,Male,Associates Degree,Married,Retired,10,0,0,1,Neurological Issues
+32,Female,Associates Degree,Single,Student,30,0,1,0,No Disease
+60,Female,High School,Divorced,Unemployed,31,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+54,Female,Bachelors Degree,Divorced,Retired,26,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+50,Male,Doctorate,Married,Employed,29,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+25,Male,Associates Degree,Married,Employed,1,1,1,1,Mental Health Disorders
+61,Female,Associates Degree,Divorced,Unemployed,8,1,0,1,Mental Health Disorders
+61,Male,Masters Degree,Single,Student,27,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+22,Female,Doctorate,Divorced,Unemployed,30,1,0,0,No Disease
+56,Male,Doctorate,Widowed,Retired,33,0,0,0,No Disease
+21,Male,Associates Degree,Widowed,Unemployed,14,0,0,0,No Disease
+23,Male,High School,Married,Employed,24,0,0,0,No Disease
+62,Male,Masters Degree,Single,Retired,35,0,0,0,No Disease
+49,Female,Doctorate,Single,Employed,7,0,0,0,No Disease
+69,Female,Associates Degree,Widowed,Student,8,1,0,1,Mental Health Disorders
+47,Female,Doctorate,Divorced,Employed,36,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+64,Male,Masters Degree,Married,Employed,38,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+52,Female,Masters Degree,Divorced,Unemployed,31,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+57,Female,Bachelors Degree,Divorced,Employed,16,0,0,1,"Cardiovascular Disease, Gastrointestinal Problems"
+69,Female,Associates Degree,Divorced,Retired,34,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+33,Male,Masters Degree,Single,Retired,36,1,1,0,No Disease
+30,Male,Bachelors Degree,Widowed,Student,18,1,0,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+67,Male,Bachelors Degree,Single,Retired,28,1,1,0,No Disease
+59,Female,Doctorate,Widowed,Unemployed,6,1,0,0,No Disease
+47,Female,Doctorate,Married,Student,27,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+36,Female,Bachelors Degree,Married,Retired,8,0,1,1,Neurological Issues
+34,Male,Doctorate,Divorced,Unemployed,27,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+36,Male,Masters Degree,Widowed,Retired,5,0,0,1,Neurological Issues
+45,Female,High School,Widowed,Retired,28,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+43,Male,Masters Degree,Widowed,Employed,16,0,0,1,"Cardiovascular Disease, Gastrointestinal Problems"
+54,Male,Bachelors Degree,Divorced,Retired,15,1,0,1,"Mental Health Disorders, Gastrointestinal Problems"
+43,Male,Bachelors Degree,Divorced,Retired,22,1,0,0,No Disease
+40,Male,Masters Degree,Married,Unemployed,30,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+26,Female,Doctorate,Single,Unemployed,2,0,0,1,Neurological Issues
+29,Male,Doctorate,Widowed,Employed,20,0,0,0,No Disease
+18,Male,Bachelors Degree,Widowed,Retired,25,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+18,Male,Associates Degree,Single,Employed,35,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+64,Male,Doctorate,Widowed,Retired,36,0,1,0,No Disease
+51,Female,Masters Degree,Divorced,Student,21,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+49,Female,Doctorate,Divorced,Student,11,0,0,1,Gastrointestinal Problems
+65,Male,Masters Degree,Widowed,Employed,12,0,0,1,Gastrointestinal Problems
+42,Male,Bachelors Degree,Divorced,Employed,10,0,0,1,Neurological Issues
+57,Male,Doctorate,Divorced,Employed,15,1,0,1,"Mental Health Disorders, Gastrointestinal Problems"
+62,Male,Masters Degree,Widowed,Unemployed,7,0,1,1,Neurological Issues
+18,Male,Bachelors Degree,Married,Unemployed,39,1,0,0,No Disease
+33,Male,Associates Degree,Single,Unemployed,39,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+56,Female,Masters Degree,Divorced,Employed,1,0,0,1,Neurological Issues
+22,Male,Associates Degree,Married,Retired,29,0,1,0,No Disease
+39,Female,Associates Degree,Divorced,Student,29,1,0,0,No Disease
+46,Female,High School,Divorced,Employed,11,0,1,1,Gastrointestinal Problems
+20,Male,Doctorate,Single,Unemployed,9,1,0,0,No Disease
+29,Female,Masters Degree,Divorced,Unemployed,10,0,1,1,Neurological Issues
+43,Female,Associates Degree,Single,Employed,14,0,0,1,Gastrointestinal Problems
+33,Female,High School,Single,Employed,15,0,1,0,No Disease
+68,Female,Bachelors Degree,Single,Unemployed,16,1,1,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+54,Female,Masters Degree,Married,Retired,25,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+39,Female,Associates Degree,Widowed,Unemployed,1,1,1,0,No Disease
+46,Male,Doctorate,Married,Unemployed,11,0,0,0,No Disease
+31,Female,High School,Widowed,Employed,25,1,0,0,No Disease
+45,Female,Associates Degree,Widowed,Retired,22,0,0,0,No Disease
+22,Female,Doctorate,Single,Unemployed,17,1,1,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+64,Male,Associates Degree,Divorced,Unemployed,31,1,1,0,No Disease
+66,Female,Masters Degree,Single,Student,37,1,0,0,No Disease
+47,Male,Masters Degree,Divorced,Employed,2,1,0,0,No Disease
+63,Female,Masters Degree,Widowed,Student,37,1,1,0,No Disease
+69,Male,High School,Single,Student,2,1,1,0,No Disease
+22,Male,Masters Degree,Divorced,Unemployed,29,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+29,Female,Doctorate,Married,Employed,0,1,0,0,No Disease
+33,Female,Associates Degree,Divorced,Retired,29,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+43,Male,Bachelors Degree,Single,Unemployed,31,1,0,0,No Disease
+43,Female,Doctorate,Married,Retired,27,0,0,0,No Disease
+65,Male,Doctorate,Divorced,Retired,20,0,0,0,No Disease
+38,Male,Masters Degree,Divorced,Employed,12,0,1,0,No Disease
+56,Male,High School,Divorced,Student,26,1,0,0,No Disease
+53,Male,Associates Degree,Divorced,Employed,35,0,1,0,No Disease
+50,Male,High School,Divorced,Retired,6,0,1,0,No Disease
+47,Female,Associates Degree,Married,Unemployed,21,1,0,0,No Disease
+54,Male,Associates Degree,Widowed,Retired,9,1,1,1,Mental Health Disorders
+40,Male,High School,Married,Unemployed,38,0,0,0,No Disease
+27,Female,Doctorate,Married,Unemployed,14,1,1,1,"Mental Health Disorders, Gastrointestinal Problems"
+22,Male,Associates Degree,Married,Employed,14,1,0,0,No Disease
+53,Female,High School,Widowed,Retired,3,1,0,1,Mental Health Disorders
+51,Female,Associates Degree,Single,Student,31,1,1,0,No Disease
+69,Female,Bachelors Degree,Widowed,Retired,22,0,0,0,No Disease
+48,Male,Doctorate,Married,Retired,5,1,1,0,No Disease
+27,Male,Masters Degree,Divorced,Student,23,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+36,Male,Associates Degree,Divorced,Employed,19,0,0,1,"Cardiovascular Disease, Gastrointestinal Problems"
+49,Female,Bachelors Degree,Married,Retired,36,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+18,Male,Masters Degree,Divorced,Retired,19,0,1,1,"Cardiovascular Disease, Gastrointestinal Problems"
+22,Female,Masters Degree,Married,Unemployed,11,1,1,0,No Disease
+62,Male,Associates Degree,Divorced,Retired,32,1,0,0,No Disease
+21,Female,High School,Widowed,Student,27,1,1,0,No Disease
+33,Male,Associates Degree,Single,Unemployed,7,0,0,1,Neurological Issues
+41,Male,Bachelors Degree,Single,Employed,0,0,1,0,No Disease
+33,Male,Masters Degree,Widowed,Unemployed,36,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+19,Female,Associates Degree,Widowed,Student,21,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+66,Female,High School,Married,Student,5,0,0,1,Neurological Issues
+45,Male,Associates Degree,Married,Unemployed,20,1,0,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+49,Male,Doctorate,Married,Employed,31,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+44,Female,High School,Divorced,Unemployed,34,1,0,0,No Disease
+37,Female,Bachelors Degree,Married,Employed,14,1,1,1,"Mental Health Disorders, Gastrointestinal Problems"
+41,Female,Masters Degree,Widowed,Unemployed,4,0,1,1,Neurological Issues
+29,Male,Associates Degree,Single,Student,5,1,0,0,No Disease
+67,Female,High School,Divorced,Retired,24,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+52,Male,Doctorate,Married,Retired,39,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+50,Female,High School,Divorced,Employed,28,0,1,0,No Disease
+50,Male,Doctorate,Divorced,Employed,6,0,0,0,No Disease
+68,Female,Bachelors Degree,Married,Employed,39,1,0,0,No Disease
+60,Female,Masters Degree,Divorced,Student,12,1,1,1,"Mental Health Disorders, Gastrointestinal Problems"
+54,Female,Bachelors Degree,Single,Unemployed,37,1,1,0,No Disease
+29,Female,Associates Degree,Widowed,Student,17,0,1,0,No Disease
+20,Female,High School,Widowed,Retired,1,1,1,0,No Disease
+18,Male,Doctorate,Single,Employed,7,1,0,1,Mental Health Disorders
+50,Female,Doctorate,Divorced,Unemployed,10,0,1,0,No Disease
+57,Female,High School,Married,Retired,32,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+27,Female,High School,Divorced,Retired,37,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+60,Male,Associates Degree,Single,Retired,26,1,0,0,No Disease
+61,Female,Bachelors Degree,Divorced,Student,19,0,0,1,"Cardiovascular Disease, Gastrointestinal Problems"
+46,Male,Doctorate,Widowed,Employed,11,0,1,1,Gastrointestinal Problems
+30,Female,Associates Degree,Divorced,Retired,30,1,0,0,No Disease
+29,Female,Bachelors Degree,Single,Employed,26,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+48,Male,Associates Degree,Widowed,Student,31,1,1,0,No Disease
+63,Female,Doctorate,Divorced,Retired,9,1,1,1,Mental Health Disorders
+19,Male,High School,Divorced,Student,2,0,0,1,Neurological Issues
+68,Male,High School,Widowed,Student,26,1,1,0,No Disease
+67,Female,Bachelors Degree,Married,Employed,34,0,0,0,No Disease
+52,Male,Masters Degree,Widowed,Retired,30,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+40,Female,Bachelors Degree,Married,Student,14,0,0,1,Gastrointestinal Problems
+34,Female,Masters Degree,Single,Retired,15,0,1,0,No Disease
+43,Male,Associates Degree,Single,Employed,12,0,1,1,Gastrointestinal Problems
+25,Male,Associates Degree,Widowed,Student,34,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+46,Male,Doctorate,Widowed,Employed,10,0,0,1,Neurological Issues
+43,Male,Masters Degree,Single,Retired,20,0,1,1,"Cardiovascular Disease, Gastrointestinal Problems"
+27,Female,Doctorate,Married,Retired,10,1,1,0,No Disease
+43,Female,High School,Single,Employed,29,1,1,0,No Disease
+51,Male,Masters Degree,Widowed,Unemployed,34,0,1,0,No Disease
+68,Female,Bachelors Degree,Single,Student,21,1,1,0,No Disease
+58,Female,High School,Widowed,Retired,37,1,0,0,No Disease
+24,Female,High School,Widowed,Retired,30,1,0,0,No Disease
+21,Female,Bachelors Degree,Single,Student,13,1,0,1,"Mental Health Disorders, Gastrointestinal Problems"
+67,Male,High School,Married,Employed,23,1,0,0,No Disease
+62,Male,Masters Degree,Divorced,Employed,31,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+28,Female,Doctorate,Single,Employed,35,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+46,Male,High School,Divorced,Unemployed,31,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+53,Male,Masters Degree,Single,Unemployed,14,1,0,0,No Disease
+42,Male,Associates Degree,Divorced,Retired,34,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+38,Female,Masters Degree,Married,Employed,2,1,0,0,No Disease
+53,Female,Doctorate,Married,Student,15,0,1,1,Gastrointestinal Problems
+27,Female,Masters Degree,Single,Retired,4,0,1,1,Neurological Issues
+54,Male,Bachelors Degree,Widowed,Student,20,0,0,0,No Disease
+26,Female,Doctorate,Divorced,Retired,9,0,1,1,Neurological Issues
+41,Female,Associates Degree,Widowed,Unemployed,18,1,0,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+52,Male,Bachelors Degree,Widowed,Retired,24,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+66,Female,Masters Degree,Widowed,Unemployed,3,0,0,1,Neurological Issues
+52,Female,Doctorate,Married,Retired,28,0,1,0,No Disease
+65,Male,Associates Degree,Single,Employed,18,0,0,1,"Cardiovascular Disease, Gastrointestinal Problems"
+53,Male,Bachelors Degree,Single,Student,1,1,0,1,Mental Health Disorders
+35,Male,Associates Degree,Married,Employed,9,0,0,0,No Disease
+66,Female,Masters Degree,Married,Retired,24,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+56,Female,Associates Degree,Single,Retired,19,0,0,1,"Cardiovascular Disease, Gastrointestinal Problems"
+49,Female,High School,Widowed,Retired,18,1,1,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+41,Male,Bachelors Degree,Divorced,Unemployed,22,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+40,Male,Associates Degree,Divorced,Student,23,0,1,0,No Disease
+49,Female,Masters Degree,Divorced,Student,10,0,0,1,Neurological Issues
+54,Female,Masters Degree,Widowed,Retired,33,0,0,0,No Disease
+29,Male,Associates Degree,Single,Retired,27,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+66,Male,Masters Degree,Married,Unemployed,4,1,1,1,Mental Health Disorders
+30,Male,Doctorate,Single,Employed,4,1,0,1,Mental Health Disorders
+40,Male,Doctorate,Widowed,Employed,20,0,1,0,No Disease
+42,Female,Doctorate,Married,Student,11,0,0,1,Gastrointestinal Problems
+52,Male,High School,Widowed,Unemployed,3,1,0,1,Mental Health Disorders
+58,Female,Associates Degree,Divorced,Retired,19,0,0,0,No Disease
+47,Female,High School,Divorced,Student,37,1,1,0,No Disease
+34,Female,Masters Degree,Widowed,Unemployed,24,0,0,0,No Disease
+66,Male,High School,Married,Employed,13,1,1,0,No Disease
+37,Male,Masters Degree,Married,Unemployed,10,1,0,1,Mental Health Disorders
+65,Male,Masters Degree,Single,Employed,31,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+42,Male,Bachelors Degree,Divorced,Unemployed,10,1,1,1,Mental Health Disorders
+39,Female,Doctorate,Single,Student,17,1,0,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+30,Male,Masters Degree,Single,Employed,26,0,1,0,No Disease
+36,Male,Bachelors Degree,Widowed,Student,17,1,0,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+66,Female,Doctorate,Widowed,Student,22,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+53,Male,Masters Degree,Single,Employed,10,1,0,1,Mental Health Disorders
+29,Female,Masters Degree,Divorced,Employed,20,1,0,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+58,Female,High School,Widowed,Retired,4,0,0,0,No Disease
+36,Female,High School,Single,Retired,22,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+29,Female,Doctorate,Single,Retired,24,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+26,Female,Masters Degree,Single,Student,9,0,1,1,Neurological Issues
+24,Female,Associates Degree,Single,Student,21,1,1,0,No Disease
+45,Female,High School,Single,Retired,18,0,0,0,No Disease
+31,Female,Doctorate,Single,Student,0,1,1,1,Mental Health Disorders
+48,Male,Masters Degree,Widowed,Student,6,0,0,1,Neurological Issues
+69,Male,Masters Degree,Divorced,Employed,3,0,1,1,Neurological Issues
+36,Male,Associates Degree,Single,Employed,0,1,1,0,No Disease
+64,Male,Doctorate,Married,Student,14,1,1,1,"Mental Health Disorders, Gastrointestinal Problems"
+33,Female,Masters Degree,Widowed,Retired,39,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+22,Male,High School,Widowed,Unemployed,11,1,1,1,"Mental Health Disorders, Gastrointestinal Problems"
+52,Female,Associates Degree,Single,Retired,21,1,0,0,No Disease
+29,Male,Doctorate,Widowed,Unemployed,21,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+42,Male,Associates Degree,Single,Retired,16,1,1,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+69,Male,High School,Divorced,Employed,28,1,1,0,No Disease
+38,Female,Doctorate,Divorced,Student,13,1,1,0,No Disease
+53,Male,Associates Degree,Widowed,Student,19,1,0,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+40,Female,Bachelors Degree,Widowed,Employed,32,1,0,0,No Disease
+33,Female,High School,Married,Unemployed,14,0,1,1,Gastrointestinal Problems
+56,Male,High School,Widowed,Unemployed,11,1,1,0,No Disease
+62,Male,High School,Married,Unemployed,39,0,0,0,No Disease
+59,Male,Bachelors Degree,Divorced,Employed,19,1,0,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+56,Female,Bachelors Degree,Divorced,Unemployed,29,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+31,Male,Masters Degree,Single,Employed,37,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+48,Female,Associates Degree,Divorced,Retired,2,1,1,0,No Disease
+22,Female,Masters Degree,Married,Retired,27,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+52,Male,Associates Degree,Widowed,Employed,25,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+40,Male,Bachelors Degree,Single,Student,29,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+46,Female,Bachelors Degree,Married,Retired,12,0,0,1,Gastrointestinal Problems
+60,Female,Masters Degree,Widowed,Unemployed,12,1,0,1,"Mental Health Disorders, Gastrointestinal Problems"
+28,Female,Doctorate,Single,Employed,1,1,0,0,No Disease
+35,Male,Masters Degree,Divorced,Unemployed,36,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+64,Female,Associates Degree,Married,Unemployed,37,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+29,Male,Masters Degree,Widowed,Student,1,1,1,0,No Disease
+26,Female,High School,Single,Unemployed,35,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+27,Female,Associates Degree,Single,Student,25,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+61,Male,Associates Degree,Divorced,Retired,10,1,0,1,Mental Health Disorders
+34,Female,Doctorate,Widowed,Employed,7,0,0,1,Neurological Issues
+55,Male,Bachelors Degree,Divorced,Unemployed,39,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+24,Male,Associates Degree,Divorced,Employed,21,1,0,0,No Disease
+63,Female,Bachelors Degree,Widowed,Unemployed,19,0,0,0,No Disease
+30,Male,Masters Degree,Widowed,Employed,7,0,1,0,No Disease
+57,Male,High School,Widowed,Unemployed,28,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+59,Female,Doctorate,Married,Unemployed,39,1,1,0,No Disease
+26,Male,Bachelors Degree,Widowed,Unemployed,25,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+67,Male,Associates Degree,Single,Unemployed,29,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+44,Male,Bachelors Degree,Divorced,Unemployed,16,1,1,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+19,Female,Associates Degree,Married,Unemployed,19,0,0,0,No Disease
+22,Male,Bachelors Degree,Widowed,Unemployed,15,1,1,0,No Disease
+46,Female,Associates Degree,Married,Unemployed,6,1,0,0,No Disease
+54,Female,Masters Degree,Widowed,Unemployed,15,1,1,1,"Mental Health Disorders, Gastrointestinal Problems"
+55,Male,Associates Degree,Married,Employed,26,0,0,0,No Disease
+36,Male,Associates Degree,Divorced,Student,22,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+25,Male,High School,Divorced,Unemployed,23,1,1,0,No Disease
+65,Female,Associates Degree,Single,Student,8,0,1,0,No Disease
+62,Male,High School,Single,Unemployed,34,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+18,Male,Doctorate,Widowed,Unemployed,19,1,0,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+39,Male,High School,Divorced,Employed,36,0,1,0,No Disease
+69,Male,Masters Degree,Married,Retired,16,1,0,0,No Disease
+34,Male,High School,Married,Retired,30,1,1,0,No Disease
+24,Female,Doctorate,Married,Employed,7,1,0,1,Mental Health Disorders
+42,Female,Masters Degree,Single,Student,14,0,1,1,Gastrointestinal Problems
+62,Male,Bachelors Degree,Married,Retired,30,1,0,0,No Disease
+21,Male,Bachelors Degree,Single,Employed,29,1,1,0,No Disease
+53,Male,High School,Single,Employed,19,0,1,1,"Cardiovascular Disease, Gastrointestinal Problems"
+23,Male,High School,Widowed,Retired,38,0,1,0,No Disease
+48,Female,Doctorate,Married,Student,11,1,1,1,"Mental Health Disorders, Gastrointestinal Problems"
+36,Male,Doctorate,Married,Employed,16,1,0,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+61,Female,Associates Degree,Divorced,Unemployed,29,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+56,Female,Doctorate,Widowed,Student,28,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+44,Male,Associates Degree,Divorced,Student,18,0,0,1,"Cardiovascular Disease, Gastrointestinal Problems"
+27,Female,Masters Degree,Widowed,Retired,10,1,1,1,Mental Health Disorders
+43,Female,High School,Married,Retired,33,0,0,0,No Disease
+36,Female,Masters Degree,Single,Unemployed,6,0,0,1,Neurological Issues
+56,Female,Doctorate,Single,Employed,33,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+20,Male,Masters Degree,Single,Retired,19,1,1,0,No Disease
+62,Male,Masters Degree,Single,Retired,37,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+30,Female,Masters Degree,Single,Student,23,0,0,0,No Disease
+67,Male,Doctorate,Divorced,Retired,9,1,1,1,Mental Health Disorders
+45,Male,Masters Degree,Widowed,Retired,31,0,1,0,No Disease
+37,Male,Associates Degree,Married,Retired,14,1,0,0,No Disease
+45,Male,Doctorate,Divorced,Retired,36,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+25,Male,Masters Degree,Widowed,Student,19,0,0,1,"Cardiovascular Disease, Gastrointestinal Problems"
+58,Female,Doctorate,Single,Unemployed,2,0,0,1,Neurological Issues
+56,Male,Bachelors Degree,Widowed,Unemployed,36,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+18,Male,Associates Degree,Widowed,Employed,39,0,1,0,No Disease
+20,Male,Masters Degree,Single,Retired,7,1,0,0,No Disease
+30,Male,Bachelors Degree,Single,Student,39,1,1,0,No Disease
+45,Female,Bachelors Degree,Single,Employed,22,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+66,Female,Doctorate,Married,Employed,39,0,0,0,No Disease
+42,Female,Bachelors Degree,Single,Unemployed,10,1,1,1,Mental Health Disorders
+50,Female,Associates Degree,Married,Student,7,1,1,1,Mental Health Disorders
+55,Male,Associates Degree,Single,Student,28,1,1,0,No Disease
+23,Female,High School,Married,Student,29,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+61,Male,Associates Degree,Widowed,Unemployed,9,1,1,0,No Disease
+62,Male,Bachelors Degree,Divorced,Unemployed,38,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+49,Male,Associates Degree,Widowed,Unemployed,27,1,1,0,No Disease
+62,Male,Doctorate,Widowed,Unemployed,35,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+64,Male,High School,Single,Unemployed,12,1,0,0,No Disease
+38,Female,Bachelors Degree,Married,Retired,31,1,0,0,No Disease
+33,Female,High School,Divorced,Retired,35,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+38,Female,Bachelors Degree,Single,Student,36,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+28,Female,Doctorate,Single,Employed,25,1,0,0,No Disease
+54,Male,High School,Single,Student,21,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+53,Female,Masters Degree,Widowed,Employed,3,1,1,1,Mental Health Disorders
+52,Male,Bachelors Degree,Married,Unemployed,30,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+36,Female,Masters Degree,Married,Employed,17,1,0,0,No Disease
+37,Male,High School,Divorced,Student,37,0,1,0,No Disease
+35,Male,Masters Degree,Married,Student,23,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+64,Female,Masters Degree,Married,Employed,22,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+58,Male,High School,Single,Retired,21,0,0,0,No Disease
+66,Male,Doctorate,Single,Unemployed,1,1,1,1,Mental Health Disorders
+31,Female,Masters Degree,Widowed,Unemployed,30,0,0,0,No Disease
+32,Male,Masters Degree,Single,Student,10,0,1,1,Neurological Issues
+48,Female,Doctorate,Single,Retired,27,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+18,Female,Masters Degree,Single,Employed,31,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+20,Female,Masters Degree,Single,Unemployed,4,1,0,0,No Disease
+33,Male,Masters Degree,Widowed,Retired,37,1,1,0,No Disease
+40,Male,Associates Degree,Single,Unemployed,9,0,1,0,No Disease
+28,Male,Doctorate,Divorced,Retired,39,0,0,0,No Disease
+29,Female,Masters Degree,Divorced,Retired,23,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+27,Male,Doctorate,Divorced,Student,34,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+49,Female,Bachelors Degree,Divorced,Unemployed,22,0,0,0,No Disease
+33,Female,Bachelors Degree,Single,Employed,16,1,1,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+25,Male,Masters Degree,Divorced,Student,0,0,1,1,Neurological Issues
+55,Female,Doctorate,Single,Student,30,0,1,0,No Disease
+29,Male,Doctorate,Widowed,Employed,30,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+41,Male,Doctorate,Divorced,Student,33,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+45,Male,Associates Degree,Married,Retired,8,1,1,0,No Disease
+25,Male,Bachelors Degree,Divorced,Retired,21,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+45,Male,Doctorate,Divorced,Unemployed,12,1,1,1,"Mental Health Disorders, Gastrointestinal Problems"
+53,Female,Doctorate,Single,Unemployed,24,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+43,Female,Associates Degree,Divorced,Employed,17,0,1,0,No Disease
+25,Female,Associates Degree,Married,Unemployed,11,1,1,0,No Disease
+67,Male,Doctorate,Single,Retired,39,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+45,Male,High School,Single,Employed,16,1,1,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+45,Male,Doctorate,Widowed,Employed,14,1,1,1,"Mental Health Disorders, Gastrointestinal Problems"
+54,Female,Doctorate,Widowed,Unemployed,14,0,0,0,No Disease
+58,Male,Associates Degree,Divorced,Retired,14,0,1,0,No Disease
+53,Female,Associates Degree,Widowed,Employed,38,0,0,0,No Disease
+44,Female,Doctorate,Widowed,Retired,12,1,1,1,"Mental Health Disorders, Gastrointestinal Problems"
+34,Male,Doctorate,Widowed,Retired,16,0,0,1,"Cardiovascular Disease, Gastrointestinal Problems"
+26,Male,Doctorate,Single,Retired,31,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+50,Female,Associates Degree,Single,Unemployed,8,1,1,1,Mental Health Disorders
+37,Male,Doctorate,Single,Student,39,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+30,Female,Doctorate,Widowed,Student,19,0,1,0,No Disease
+45,Male,Masters Degree,Single,Employed,25,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+65,Male,High School,Widowed,Retired,26,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+46,Female,Bachelors Degree,Single,Unemployed,20,0,0,1,"Cardiovascular Disease, Gastrointestinal Problems"
+30,Male,High School,Single,Retired,17,1,0,0,No Disease
+63,Female,Masters Degree,Married,Retired,12,0,0,1,Gastrointestinal Problems
+52,Male,Bachelors Degree,Divorced,Unemployed,15,1,0,0,No Disease
+23,Female,Doctorate,Widowed,Student,8,1,0,0,No Disease
+35,Female,Masters Degree,Married,Retired,11,0,1,0,No Disease
+68,Male,Doctorate,Single,Retired,37,0,1,0,No Disease
+22,Female,Associates Degree,Widowed,Student,18,0,1,0,No Disease
+64,Male,Masters Degree,Single,Unemployed,6,1,1,1,Mental Health Disorders
+42,Male,Associates Degree,Divorced,Employed,34,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+19,Male,Masters Degree,Married,Student,17,1,0,0,No Disease
+27,Female,Masters Degree,Divorced,Employed,15,1,0,0,No Disease
+47,Female,Associates Degree,Married,Employed,38,0,1,0,No Disease
+67,Male,Bachelors Degree,Single,Student,3,1,0,1,Mental Health Disorders
+62,Male,High School,Divorced,Retired,24,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+22,Female,Doctorate,Divorced,Employed,31,0,0,0,No Disease
+50,Male,Masters Degree,Single,Employed,39,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+18,Male,Doctorate,Divorced,Unemployed,12,0,0,1,Gastrointestinal Problems
+35,Female,Associates Degree,Widowed,Retired,16,0,0,0,No Disease
+49,Male,Doctorate,Married,Employed,36,0,1,0,No Disease
+64,Female,Associates Degree,Married,Unemployed,5,0,1,1,Neurological Issues
+66,Male,Doctorate,Married,Retired,18,1,0,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+28,Female,High School,Widowed,Student,12,0,1,1,Gastrointestinal Problems
+38,Male,High School,Married,Student,25,1,0,0,No Disease
+43,Male,High School,Single,Unemployed,13,1,0,0,No Disease
+42,Female,High School,Divorced,Student,30,1,0,0,No Disease
+39,Male,High School,Widowed,Employed,3,0,0,1,Neurological Issues
+44,Female,High School,Married,Retired,38,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+66,Male,Associates Degree,Single,Employed,7,1,0,0,No Disease
+30,Female,Masters Degree,Divorced,Employed,24,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+50,Female,Doctorate,Divorced,Student,12,0,1,0,No Disease
+51,Female,High School,Widowed,Employed,31,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+58,Female,Associates Degree,Widowed,Student,37,0,1,0,No Disease
+52,Male,Associates Degree,Widowed,Retired,37,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+18,Male,Associates Degree,Single,Retired,27,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+38,Female,Masters Degree,Single,Employed,29,0,0,0,No Disease
+65,Female,Doctorate,Widowed,Unemployed,2,1,0,0,No Disease
+23,Female,Masters Degree,Married,Student,27,0,0,0,No Disease
+45,Male,Bachelors Degree,Divorced,Student,2,0,0,0,No Disease
+34,Male,Associates Degree,Divorced,Employed,33,0,1,0,No Disease
+22,Male,Bachelors Degree,Single,Student,15,1,0,1,"Mental Health Disorders, Gastrointestinal Problems"
+48,Male,High School,Divorced,Student,21,1,1,0,No Disease
+22,Female,High School,Married,Unemployed,31,0,1,0,No Disease
+55,Female,Masters Degree,Divorced,Unemployed,37,0,0,0,No Disease
+20,Female,Doctorate,Single,Employed,7,1,1,0,No Disease
+40,Male,Bachelors Degree,Single,Unemployed,7,0,0,0,No Disease
+54,Male,Doctorate,Married,Employed,5,0,1,1,Neurological Issues
+54,Male,Masters Degree,Married,Retired,13,1,0,0,No Disease
+27,Female,High School,Divorced,Employed,31,0,1,0,No Disease
+27,Female,Doctorate,Divorced,Retired,34,0,1,0,No Disease
+36,Male,Doctorate,Single,Employed,9,1,0,1,Mental Health Disorders
+34,Female,High School,Married,Student,2,1,1,1,Mental Health Disorders
+38,Male,Bachelors Degree,Married,Unemployed,11,0,0,0,No Disease
+31,Male,High School,Married,Retired,30,1,0,0,No Disease
+26,Female,Doctorate,Divorced,Employed,28,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+63,Male,Bachelors Degree,Married,Unemployed,4,0,0,1,Neurological Issues
+18,Female,Bachelors Degree,Single,Employed,24,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+68,Male,High School,Single,Unemployed,30,1,1,0,No Disease
+62,Female,Doctorate,Divorced,Unemployed,20,1,1,0,No Disease
+30,Female,Masters Degree,Widowed,Employed,19,0,1,1,"Cardiovascular Disease, Gastrointestinal Problems"
+21,Female,Doctorate,Divorced,Retired,38,0,0,0,No Disease
+18,Male,Associates Degree,Widowed,Retired,21,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+66,Male,Masters Degree,Married,Student,3,1,1,1,Mental Health Disorders
+57,Female,Bachelors Degree,Divorced,Unemployed,12,1,1,1,"Mental Health Disorders, Gastrointestinal Problems"
+49,Female,Masters Degree,Single,Student,19,0,1,0,No Disease
+51,Male,Bachelors Degree,Married,Student,12,1,1,1,"Mental Health Disorders, Gastrointestinal Problems"
+45,Male,Bachelors Degree,Single,Employed,16,1,0,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+48,Male,Masters Degree,Married,Employed,35,0,0,0,No Disease
+25,Female,Bachelors Degree,Divorced,Employed,32,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+56,Male,Bachelors Degree,Widowed,Unemployed,0,0,0,0,No Disease
+43,Male,Associates Degree,Married,Employed,14,1,0,1,"Mental Health Disorders, Gastrointestinal Problems"
+51,Female,Doctorate,Widowed,Employed,12,0,1,0,No Disease
+20,Male,Doctorate,Married,Unemployed,16,0,1,1,"Cardiovascular Disease, Gastrointestinal Problems"
+67,Male,Associates Degree,Single,Unemployed,23,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+29,Male,Masters Degree,Single,Retired,7,0,1,1,Neurological Issues
+18,Female,High School,Married,Employed,26,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+61,Female,High School,Widowed,Employed,22,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+22,Female,High School,Divorced,Employed,7,1,1,0,No Disease
+47,Female,Associates Degree,Divorced,Retired,7,1,0,0,No Disease
+47,Female,Associates Degree,Single,Employed,25,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+34,Female,Bachelors Degree,Divorced,Retired,12,0,0,1,Gastrointestinal Problems
+65,Female,High School,Single,Student,38,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+64,Male,Masters Degree,Divorced,Retired,36,0,1,0,No Disease
+40,Male,Masters Degree,Married,Student,27,0,1,0,No Disease
+32,Female,High School,Single,Employed,24,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+54,Male,High School,Single,Student,15,1,0,0,No Disease
+38,Male,High School,Married,Retired,1,0,1,1,Neurological Issues
+31,Female,Associates Degree,Single,Unemployed,17,0,1,1,"Cardiovascular Disease, Gastrointestinal Problems"
+19,Male,Associates Degree,Divorced,Student,16,0,1,1,"Cardiovascular Disease, Gastrointestinal Problems"
+28,Male,Associates Degree,Divorced,Student,29,1,1,0,No Disease
+68,Male,Doctorate,Single,Employed,38,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+56,Male,Masters Degree,Divorced,Retired,12,1,0,1,"Mental Health Disorders, Gastrointestinal Problems"
+55,Male,Masters Degree,Widowed,Student,31,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+51,Female,Bachelors Degree,Single,Student,28,1,1,0,No Disease
+55,Female,Associates Degree,Married,Student,29,0,1,0,No Disease
+67,Female,Doctorate,Widowed,Student,17,0,0,0,No Disease
+51,Male,Doctorate,Single,Unemployed,12,1,1,1,"Mental Health Disorders, Gastrointestinal Problems"
+35,Female,Masters Degree,Married,Retired,20,0,1,0,No Disease
+47,Male,Associates Degree,Divorced,Employed,29,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+32,Male,Bachelors Degree,Married,Employed,20,0,0,0,No Disease
+44,Male,Associates Degree,Widowed,Unemployed,16,1,1,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+68,Male,High School,Divorced,Retired,39,0,1,0,No Disease
+51,Female,Associates Degree,Single,Student,18,0,1,1,"Cardiovascular Disease, Gastrointestinal Problems"
+69,Female,High School,Divorced,Unemployed,14,0,0,0,No Disease
+55,Male,High School,Single,Retired,8,0,0,0,No Disease
+50,Female,Bachelors Degree,Single,Student,9,0,0,0,No Disease
+41,Male,Masters Degree,Married,Unemployed,30,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+32,Female,Associates Degree,Married,Retired,22,0,1,0,No Disease
+47,Female,High School,Married,Employed,29,1,0,0,No Disease
+59,Male,Associates Degree,Widowed,Employed,32,1,0,0,No Disease
+68,Female,Masters Degree,Widowed,Retired,8,1,1,0,No Disease
+34,Male,Masters Degree,Married,Employed,0,0,1,1,Neurological Issues
+22,Female,Doctorate,Widowed,Retired,34,0,1,0,No Disease
+46,Male,Masters Degree,Divorced,Student,10,0,0,1,Neurological Issues
+21,Male,Bachelors Degree,Divorced,Retired,33,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+27,Female,High School,Widowed,Student,15,0,1,1,Gastrointestinal Problems
+34,Female,Doctorate,Widowed,Unemployed,8,0,0,1,Neurological Issues
+27,Male,Bachelors Degree,Divorced,Retired,31,1,0,0,No Disease
+34,Female,Associates Degree,Single,Unemployed,14,1,1,1,"Mental Health Disorders, Gastrointestinal Problems"
+37,Female,High School,Divorced,Employed,11,1,0,1,"Mental Health Disorders, Gastrointestinal Problems"
+41,Male,Masters Degree,Divorced,Student,32,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+22,Male,High School,Widowed,Retired,13,1,1,1,"Mental Health Disorders, Gastrointestinal Problems"
+51,Female,Associates Degree,Divorced,Unemployed,7,1,0,0,No Disease
+23,Male,Doctorate,Widowed,Student,7,0,1,0,No Disease
+19,Male,Doctorate,Widowed,Student,26,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+30,Male,Doctorate,Married,Employed,11,0,0,1,Gastrointestinal Problems
+60,Female,Masters Degree,Divorced,Employed,0,0,0,1,Neurological Issues
+60,Female,Bachelors Degree,Single,Student,39,0,1,0,No Disease
+65,Male,Bachelors Degree,Married,Student,10,1,0,0,No Disease
+28,Female,High School,Widowed,Retired,38,0,0,0,No Disease
+68,Male,Masters Degree,Widowed,Student,30,1,1,0,No Disease
+64,Female,Doctorate,Single,Retired,16,1,1,0,No Disease
+40,Male,Doctorate,Widowed,Student,32,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+33,Male,Associates Degree,Divorced,Employed,31,1,1,0,No Disease
+48,Female,Associates Degree,Married,Retired,28,0,0,0,No Disease
+28,Male,Doctorate,Widowed,Unemployed,20,0,0,1,"Cardiovascular Disease, Gastrointestinal Problems"
+33,Female,Doctorate,Widowed,Employed,20,1,0,0,No Disease
+25,Female,Masters Degree,Single,Retired,39,0,1,0,No Disease
+21,Male,Bachelors Degree,Divorced,Retired,22,0,1,0,No Disease
+57,Male,Associates Degree,Widowed,Unemployed,5,0,0,1,Neurological Issues
+21,Female,Bachelors Degree,Single,Retired,21,1,1,0,No Disease
+42,Male,Masters Degree,Widowed,Student,37,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+20,Male,Doctorate,Single,Unemployed,36,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+49,Male,Bachelors Degree,Single,Employed,7,1,0,0,No Disease
+20,Male,Doctorate,Divorced,Employed,34,0,1,0,No Disease
+44,Male,Doctorate,Widowed,Student,10,0,1,0,No Disease
+46,Female,High School,Divorced,Employed,23,1,1,0,No Disease
+49,Female,Bachelors Degree,Single,Retired,20,1,0,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+67,Male,Bachelors Degree,Married,Retired,1,0,0,0,No Disease
+68,Male,Doctorate,Widowed,Student,39,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+36,Male,Masters Degree,Married,Employed,18,1,0,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+38,Female,High School,Widowed,Employed,38,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+22,Male,Doctorate,Divorced,Student,27,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+35,Female,Associates Degree,Divorced,Unemployed,16,1,1,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+45,Female,Associates Degree,Divorced,Employed,5,1,1,0,No Disease
+59,Female,High School,Divorced,Unemployed,18,0,0,1,"Cardiovascular Disease, Gastrointestinal Problems"
+39,Male,Masters Degree,Divorced,Employed,37,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+38,Female,Doctorate,Married,Employed,27,1,0,0,No Disease
+23,Male,Bachelors Degree,Divorced,Employed,1,0,1,0,No Disease
+18,Female,High School,Single,Employed,37,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+22,Male,Masters Degree,Single,Retired,36,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+58,Female,Bachelors Degree,Married,Unemployed,3,1,1,0,No Disease
+29,Male,Associates Degree,Widowed,Unemployed,21,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+43,Female,Associates Degree,Single,Employed,25,1,1,0,No Disease
+63,Male,Bachelors Degree,Widowed,Employed,35,1,0,0,No Disease
+51,Male,High School,Married,Unemployed,12,0,0,1,Gastrointestinal Problems
+66,Male,Associates Degree,Widowed,Retired,31,1,1,0,No Disease
+31,Male,Doctorate,Widowed,Student,16,0,1,1,"Cardiovascular Disease, Gastrointestinal Problems"
+43,Female,Bachelors Degree,Widowed,Student,35,0,1,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+62,Female,Bachelors Degree,Widowed,Unemployed,18,0,1,1,"Cardiovascular Disease, Gastrointestinal Problems"
+44,Male,Associates Degree,Married,Employed,34,0,1,0,No Disease
+26,Female,High School,Single,Employed,39,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+43,Male,Doctorate,Divorced,Retired,27,0,0,0,No Disease
+64,Male,High School,Widowed,Student,0,1,0,1,Mental Health Disorders
+39,Female,Masters Degree,Single,Retired,17,1,1,1,"Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+64,Male,Masters Degree,Single,Student,39,1,0,0,No Disease
+47,Male,Associates Degree,Married,Unemployed,32,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+60,Female,Associates Degree,Single,Student,11,1,0,1,"Mental Health Disorders, Gastrointestinal Problems"
+65,Male,Associates Degree,Married,Retired,7,0,1,0,No Disease
+34,Male,Masters Degree,Widowed,Retired,23,0,0,0,No Disease
+43,Male,High School,Widowed,Retired,15,0,0,0,No Disease
+53,Male,High School,Divorced,Unemployed,3,0,0,1,Neurological Issues
+18,Female,Associates Degree,Divorced,Student,37,1,0,0,No Disease
+25,Female,Doctorate,Divorced,Student,26,0,0,0,No Disease
+66,Female,High School,Single,Retired,8,1,1,1,Mental Health Disorders
+52,Male,Masters Degree,Widowed,Student,15,1,1,0,No Disease
+69,Male,Bachelors Degree,Married,Employed,11,0,1,1,Gastrointestinal Problems
+32,Female,Bachelors Degree,Divorced,Employed,30,0,0,1,"Liver Disease, Cardiovascular Disease, Gastrointestinal Problems"
+64,Male,Bachelors Degree,Married,Employed,23,0,1,0,No Disease
+39,Male,Doctorate,Married,Student,13,0,0,1,Gastrointestinal Problems
+31,Male,Associates Degree,Divorced,Unemployed,24,1,0,0,No Disease
+43,Male,Masters Degree,Widowed,Unemployed,33,1,0,0,No Disease
+45,Female,Doctorate,Divorced,Unemployed,2,0,1,0,No Disease
+40,Female,Masters Degree,Married,Unemployed,23,1,0,0,No Disease
+31,Female,Masters Degree,Divorced,Employed,8,1,1,1,Mental Health Disorders
+41,Male,Associates Degree,Married,Employed,25,1,1,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+19,Female,Bachelors Degree,Married,Retired,19,0,0,0,No Disease
+62,Female,Associates Degree,Divorced,Student,39,1,0,0,No Disease
+43,Male,Doctorate,Single,Student,9,0,1,1,Neurological Issues
+31,Male,Doctorate,Divorced,Unemployed,18,0,1,0,No Disease
+68,Female,Doctorate,Single,Employed,2,1,1,1,Mental Health Disorders
+24,Female,Associates Degree,Married,Unemployed,23,1,1,0,No Disease
+20,Female,Masters Degree,Married,Retired,4,0,1,1,Neurological Issues
+64,Female,Masters Degree,Single,Student,2,1,1,1,Mental Health Disorders
+40,Male,High School,Married,Student,26,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
+63,Female,Doctorate,Single,Unemployed,15,0,1,0,No Disease
+60,Female,Masters Degree,Single,Retired,14,0,1,0,No Disease
+64,Male,High School,Married,Student,34,0,1,0,No Disease
+62,Female,Masters Degree,Widowed,Retired,11,0,1,0,No Disease
+35,Male,Doctorate,Single,Retired,25,1,0,0,No Disease
+55,Male,Bachelors Degree,Divorced,Unemployed,33,1,0,1,"Liver Disease, Cardiovascular Disease, Mental Health Disorders, Gastrointestinal Problems"
